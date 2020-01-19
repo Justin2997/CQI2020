@@ -1,0 +1,2 @@
+class AreaClassification < ApplicationRecord
+end

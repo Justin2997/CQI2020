@@ -1,0 +1,2 @@
+class CreditRating < ApplicationRecord
+end
